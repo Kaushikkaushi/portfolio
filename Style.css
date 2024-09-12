@@ -273,6 +273,9 @@ h3{
 }
 
 /* footer section */
+footer{
+  color: #f1f1f1;
+}
 .social-icon{
   width: 2.5rem;
   height: 2.5rem;
